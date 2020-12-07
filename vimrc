@@ -1,11 +1,11 @@
 set nocompatible              " required
 filetype off                  " required
-set rtp+=~/.vim/bundle/Vundle.vim
-call vundle#begin()
-Plugin 'VundleVim/Vundle.vim'
-Plugin 'scrooloose/nerdtree'
-Plugin 'Tagbar'
-call vundle#end()            " required
+"set rtp+=~/.vim/bundle/Vundle.vim
+"call vundle#begin()
+"Plugin 'VundleVim/Vundle.vim'
+"Plugin 'scrooloose/nerdtree'
+"Plugin 'Tagbar'
+"call vundle#end()            " required
 filetype plugin indent on    " required
 set nu sts=4 ts=4 sw=4 et si ai
 set ruler
